@@ -1,0 +1,6 @@
+{
+  "name": "Saude&Vida",
+  "description": "Sistema de gestão de consultas médicas online com agendamento, prontuário eletrônico e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
